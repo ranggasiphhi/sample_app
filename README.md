@@ -6,8 +6,7 @@ Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/)
 
 And database using 
-[*MongoDB*]
-(https://docs.mongodb.com/mongoid/master/tutorials/mongoid-installation/) 
+[*MongoDB*](https://docs.mongodb.com/mongoid/master/tutorials/mongoid-installation/) 
 
 ## License
 
